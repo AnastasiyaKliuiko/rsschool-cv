@@ -13,3 +13,19 @@ Hello! My name is Nastya, I am 32 years old. I am from Belarus, but now I live i
 I am always improving my knowledge and learning new things. 1 year ago, I became interested in the IT sphere - and I graduated from HTML and CSS courses, also studied a lot on my own, now I am studying for a Frontend developer at Rolling Scopes School.
 
 I can say about myself that I am an active, positive and sociable person. I am very responsible about my work, I quickly learn new things at work, I am always open to knowledge, stress-resistant, I always give myself completely to the cause. I'm good with a computer, I type fast. I am currently studying Polish, but I can also improve English if necessary.
+
+## Skills
++ HTML5, CSS3
++ Git, GitHub
++ VSCode
+
+## Code example
+` function multiply(a, b){
+  return a * b
+} `
+
+## Education
++ Gomel State University
++ [CS50 lectures] (https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
++ [HTML&CSS] (https://stepik.org/course/38218/syllabus?auth=login)
++ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
