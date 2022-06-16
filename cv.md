@@ -20,12 +20,18 @@ I can say about myself that I am an active, positive and sociable person. I am v
 + VSCode
 
 ## Code example
-` function multiply(a, b){
+`function multiply(a, b){
   return a * b
-} `
+}`
 
 ## Education
 + Gomel State University
-+ [CS50 lectures] (https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-+ [HTML&CSS] (https://stepik.org/course/38218/syllabus?auth=login)
++ [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
++ [HTML&CSS](https://stepik.org/course/38218/syllabus?auth=login)
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages 
++ **English** PreIntermediate
++ **Polish** PreIntermediate
++ **Russian** Native
++ **Belorussian** Native
